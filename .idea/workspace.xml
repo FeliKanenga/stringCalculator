@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9453fb88-42a3-4b8e-9498-c40ae7ab69a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../StringCalcultor\exportToHTML" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZhQ3hkDvPu491dIeksyt4ltLeE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.stringCalculatorTest.ifEmpty">
+    <configuration name="stringCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringCalculator" />
+      <module name="StringCalcultor.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stringCalculatorTest.add" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;stringCalculatorTest.add&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="stringCalculatorTest.ifEmpty" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;stringCalculatorTest.ifEmpty&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="stringCalculatorTest.newLinesBetweenIntegers" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;stringCalculatorTest.newLinesBetweenIntegers&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.stringCalculatorTest.ifEmpty" />
+        <item itemvalue="Gradle.stringCalculatorTest.newLinesBetweenIntegers" />
+        <item itemvalue="Gradle.stringCalculatorTest.add" />
+        <item itemvalue="Application.stringCalculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9453fb88-42a3-4b8e-9498-c40ae7ab69a5" name="Default Changelist" comment="" />
+      <created>1585288648626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585288648626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="88" key="#Project_Structure" timestamp="1585556488789">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1585556488789" />
+    <state width="1557" height="354" key="GridCell.Tab.0.bottom" timestamp="1585557540735">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="354" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585557540735" />
+    <state width="1557" height="354" key="GridCell.Tab.0.center" timestamp="1585557540734">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="354" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585557540734" />
+    <state width="1557" height="354" key="GridCell.Tab.0.left" timestamp="1585557540734">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="354" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585557540734" />
+    <state width="1557" height="354" key="GridCell.Tab.0.right" timestamp="1585557540735">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="354" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585557540735" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1585554644145">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585554644145" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1585554644144">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1585554644144" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1585554644144">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1585554644144" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1585554644145">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1585554644145" />
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1585511369195">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1585511369195" />
+    <state x="571" y="133" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585556557689">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="571" y="133" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1600.860@0.0.1600.860" timestamp="1585556557689" />
+    <state x="182" y="42" key="new project wizard" timestamp="1585547939777">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="42" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1585547939777" />
+    <state x="506" y="58" key="refactoring.ChangeSignatureDialog" timestamp="1585291565243">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="506" y="58" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1585291565243" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1585557146823">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1585557146823" />
+  </component>
+</project>

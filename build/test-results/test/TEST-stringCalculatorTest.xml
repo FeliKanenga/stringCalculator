@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stringCalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-30T08:38:53" hostname="DESKTOP-MUN18M2" time="0.004">
+  <properties/>
+  <testcase name="ifEmpty" classname="stringCalculatorTest" time="0.004"/>
+  <system-out><![CDATA[0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
